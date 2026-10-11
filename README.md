@@ -3,8 +3,10 @@
 **Autonomous CCTV person detection, multi-person tracking, temporal behaviour analysis and explainable risk alerts using YOLO26s, BoT-SORT + ReID and pose-based activity recognition.**
 
 A computer-vision system that turns raw CCTV video into explainable alerts: it detects people, gives each one a persistent ID, watches their behaviour over time, and raises a critical-risk alert with clear evidence (who, what, when, why).
-<img width="956" height="545" alt="Screenshot 2026-10-11 222531" src="https://github.com/user-attachments/assets/db87eec7-435b-4b7b-ae54-5da1c51cc374" />
+
 <img width="957" height="541" alt="Screenshot 2026-10-11 222509" src="https://github.com/user-attachments/assets/eb5ebe55-36bd-4cb0-85f1-2f68ac2b2d80" />
+
+<img width="956" height="545" alt="Screenshot 2026-10-11 222531" src="https://github.com/user-attachments/assets/db87eec7-435b-4b7b-ae54-5da1c51cc374" />
 
 
 
