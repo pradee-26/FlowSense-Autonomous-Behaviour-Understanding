@@ -1,4 +1,4 @@
-<img width="957" height="541" alt="Screenshot 2026-10-11 222509" src="https://github.com/user-attachments/assets/61a385d8-fb0a-4e27-afa4-3893d6025e3b" /><img width="956" height="545" alt="image" src="https://github.com/user-attachments/assets/a4eee55c-44eb-4cab-a554-816f97512c7c" /># FlowSense – Autonomous Behaviour Understanding
+# FlowSense – Autonomous Behaviour Understanding
 
 **Autonomous CCTV person detection, multi-person tracking, temporal behaviour analysis and explainable risk alerts using YOLO26s, BoT-SORT + ReID and pose-based activity recognition.**
 
