@@ -609,7 +609,7 @@ All significant external datasets, pretrained models and open-source components 
 
 ## Author
 
-**pradee-26**
+**PRADEEBA R S**
 
 - GitHub: [@pradee-26](https://github.com/pradee-26)
 - Repository: [pradee-26/FlowSense-Autonomous-Behaviour-Understanding](https://github.com/pradee-26/FlowSense-Autonomous-Behaviour-Understanding)
